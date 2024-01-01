@@ -16,6 +16,9 @@
 </head>
 
 <body>
+  <?php
+    require_once "../scripts/header.php";
+  ?>
   <main>
     <table>
       <thead>
