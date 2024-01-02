@@ -5,8 +5,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Essential words</title>
-  <link rel="stylesheet" href="../styles/dynamic-size-table.css" />
-  <link rel="stylesheet" href="../styles/partials.css" />
+  <link rel="stylesheet" href="..\\styles\\dynamic-size-table.css" />
+  <link rel="stylesheet" href="..\\styles\\partials.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&display=swap" />
   <style>
     tr>td:last-child {
@@ -16,6 +16,9 @@
 </head>
 
 <body>
+  <?php
+    require_once "../scripts/header.php";
+  ?>
   <main>
     <table>
       <thead>
