@@ -6,12 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Fonetic chart</title>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <link rel="stylesheet" href="..\\styles\\static-size-table.css" />
     <link rel="stylesheet" href="..\\styles\\partials.css" />
 =======
     <link rel="stylesheet" href="../styles/static-size-table.css" />
     <link rel="stylesheet" href="../styles/partials.css" />
 >>>>>>> 1a3c3d2dacaa3623e4957da2b717d2f09c77bdd2
+=======
+    <link rel="stylesheet" href="../styles/static-size-table.css" />
+    <link rel="stylesheet" href="../styles/partials.css" />
+=======
+    <link rel="stylesheet" href="..\\styles\\static-size-table.css" />
+    <link rel="stylesheet" href="..\\styles\\partials.css" />
+>>>>>>> de2de924d472d9d829d6a969edcd4135009f48ca
+>>>>>>> 5ac0d0a9c2d880e1f750c8f9117cb5872eaeb26e
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&display=swap" />
 </head>
 
