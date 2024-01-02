@@ -1,0 +1,19 @@
+               I             	worked	  |      	    I                 	work/works  |  
+               I didn't      	work	  |      	    I   don't/doesn't 	work	    |  
+           Did I             	work?	  |      Do/Does    I                 	work?  	    |  
+        Didn't I             	work?	  |   Don't/Doesn't I                 	work?       |  
+					  |						    |  
+               I had         	worked	  |		    I    have/has     	worked      |  	     I'll    have worked
+               I hadn't      	worked	  |		    I haven't/hasn't  	worked      |  	     I won't have worked
+      	   Had I             	worked?	  |     Have/Has    I 		     	worked?     |   Will I       have worked?
+   	Hadn't I             	worked?   |  Haven't/Hasn't I 		     	worked?     |  Won't I       have worked?
+					  |						    |  
+               I was   /were    working	  |	            I'm/'re/'s 	     	working     |  
+               I wasn't/weren't working	  |	  	    I'm/'re/'s not    	working     |  
+   Was/Were    I                working?  |	  Is/Are/Am I		     	working?    |  
+Wasn't/Weren't I                working?  |    Isn't/Aren't I 		        working?    |  
+					  | 						    |  
+               I had    been    working	  | 		    I    have/has    been working   |  
+               I hadn't been    working	  |    		    I haven't/hasn't been working   |  
+           Had I        been    working?  |     Have/Has    I                been working?  |  
+        Hadn't I        been    working?  |  Haven't/Hasn't I 		     been working?  |  

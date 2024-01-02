@@ -5,8 +5,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Fonetic chart</title>
+<<<<<<< HEAD
     <link rel="stylesheet" href="../styles/static-size-table.css" />
     <link rel="stylesheet" href="../styles/partials.css" />
+=======
+    <link rel="stylesheet" href="..\\styles\\static-size-table.css" />
+    <link rel="stylesheet" href="..\\styles\\partials.css" />
+>>>>>>> de2de924d472d9d829d6a969edcd4135009f48ca
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&display=swap" />
 </head>
 

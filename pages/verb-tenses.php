@@ -5,14 +5,23 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Verb tenses</title>
+<<<<<<< HEAD
     <link rel="stylesheet" href="../styles/dynamic-size-table.css" />
     <link rel="stylesheet" href="../styles/partials.css" />
+=======
+    <link rel="stylesheet" href="..\\styles\\dynamic-size-table.css" />
+    <link rel="stylesheet" href="..\\styles\\partials.css" />
+>>>>>>> de2de924d472d9d829d6a969edcd4135009f48ca
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&display=swap" />
 </head>
 
 <body>
     <?php
+<<<<<<< HEAD
     require_once "../scripts/header.php";
+=======
+        require_once "../scripts/header.php";
+>>>>>>> de2de924d472d9d829d6a969edcd4135009f48ca
     ?>
     <main>
         <table>

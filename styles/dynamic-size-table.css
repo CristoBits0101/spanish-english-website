@@ -28,8 +28,7 @@ td:first-child {
   color: #ffffff;
 }
 
-th,
-td {
+th, td {
   border: 0.1rem solid #000000;
   padding: 1rem;
 }
