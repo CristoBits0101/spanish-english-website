@@ -158,7 +158,7 @@
                         <br />
                         He'd worked
                         <br />
-                        hɪd wə́ːkt
+                        hiːd wə́ːkt
                         <br />
                         Había trabajado
                         <br />
@@ -172,7 +172,7 @@
                         <br />
                         It'd worked
                         <br />
-                        ɪtəd wə́ːkt
+                        ɪtd wə́ːkt
                         <br />
                         Había funcionado
                         <br />
@@ -1025,7 +1025,7 @@
                         <br />
                         She's working
                         <br />
-                        ʃi:z ɪz ˈwɝː.kɪŋ
+                        ʃi:z ˈwɝː.kɪŋ
                         <br />
                         Ella está trabajando
                         <br />
@@ -1058,114 +1058,114 @@
                         Ellos/as están trabajando
                     </td>
                     <td>
-                        I have worked
+                        I've worked
                         <br />
-                        aɪ hæv wɝːkt
+                        aɪv wɝːkt
                         <br />
                         Yo he trabajado
                         <br />
                         <br />
-                        You have worked
+                        You've worked
                         <br />
-                        ju: hæv wɝːkt
+                        juːv wɝːkt
                         <br />
                         Tú has trabajado
                         <br />
                         <br />
-                        He has worked
+                        He's worked
                         <br />
-                        hi: hæz wɝːkt
+                        hi:z wɝːkt
                         <br />
                         Él ha trabajado
                         <br />
                         <br />
-                        She has worked
+                        She's worked
                         <br />
-                        ʃi: hæz wɝːkt
+                        ʃi:z wɝːkt
                         <br />
                         Ella ha trabajado
                         <br />
                         <br />
-                        It has worked
+                        It's worked
                         <br />
-                        ɪt hæz wɝːkt
+                        ɪts wɝːkt
                         <br />
                         Esto/Esta ha funcionado
                         <br />
                         <br />
-                        We have worked
+                        We've worked
                         <br />
-                        wi: hæv wɝːkt
+                        wiːv wɝːkt
                         <br />
                         Nosotros/as hemos trabajado
                         <br />
                         <br />
-                        You have worked
+                        You've worked
                         <br />
-                        ju: hæv wɝːkt
+                        juːv wɝːkt
                         <br />
                         Ustedes/vosotros/as han trabajado
                         <br />
                         <br />
-                        They have worked
+                        They've worked
                         <br />
-                        ðeɪ hæv wɝːkt
+                        ðeɪv  wɝːkt
                         <br />
                         Ellos/as han trabajado
                     </td>
                     <td>
-                        I have been working
+                        I've been working
                         <br />
-                        aɪ hæv biːn ˈwɝː.kɪŋ
+                        aɪv biːn ˈwɝː.kɪŋ
                         <br />
                         Yo he estado trabajando
                         <br />
                         <br />
-                        You have been working
+                        You've been working
                         <br />
-                        ju: hæv biːn ˈwɝː.kɪŋ
+                        juːv biːn ˈwɝː.kɪŋ
                         <br />
                         Tú has estado trabajando
                         <br />
                         <br />
-                        He has been working
+                        He's been working
                         <br />
-                        hi: hæv biːn ˈwɝː.kɪŋ
+                        hi:z  biːn ˈwɝː.kɪŋ
                         <br />
                         Él ha estado trabajando
                         <br />
                         <br />
-                        She has been working
+                        She's been working
                         <br />
-                        ʃi: hæv biːn ˈwɝː.kɪŋ
+                        ʃi:z biːn ˈwɝː.kɪŋ
                         <br />
                         Ella ha estado trabajando
                         <br />
                         <br />
-                        It has been working
+                        It's been working
                         <br />
-                        ɪt hæv biːn ˈwɝː.kɪŋ
+                        ɪts biːn ˈwɝː.kɪŋ
                         <br />
                         Esto/Esta ha estado funcionando
                         <br />
                         <br />
-                        We have been working
+                        We've been working
                         <br />
                         wi: hæv biːn ˈwɝː.kɪŋ
                         <br />
                         Nosotros/as hemos estado trabajando
                         <br />
                         <br />
-                        You have been working
+                        You've been working
                         <br />
                         ju: hæv biːn ˈwɝː.kɪŋ
                         <br />
                         Ustedes/vosotros/as han estado trabajando
                         <br />
                         <br />
-                        They have been working
+                        They've been working
                         <br />
-                        ðeɪ hæv biːn ˈwɝː.kɪŋ
+                        ðeɪv biːn ˈwɝː.kɪŋ
                         <br />
                         Ellos/as han estado trabajando
                     </td>
