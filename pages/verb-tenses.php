@@ -32,56 +32,56 @@
                     <td>
                         I worked
                         <br />
-                        aɪ wɝːk
+                        aɪ wə́ːkt
                         <br />
                         Trabajé
                         <br />
                         <br />
                         You worked
                         <br />
-                        ju: wɝːk
+                        ju: wə́ːkt
                         <br />
                         Trabajaste
                         <br />
                         <br />
                         He worked
                         <br />
-                        hi: wɝːk
+                        hi: wə́ːkt
                         <br />
                         Trabajó
                         <br />
                         <br />
                         She worked
                         <br />
-                        ʃi: wɝːk
+                        ʃi: wə́ːkt
                         <br />
                         Trabajó
                         <br />
                         <br />
                         It worked
                         <br />
-                        ɪt wɝːk
+                        ɪt wə́ːkt
                         <br />
                         Funcionó
                         <br />
                         <br />
                         We worked
                         <br />
-                        wi: wɝːk
+                        wi: wə́ːkt
                         <br />
                         Trabajamos
                         <br />
                         <br />
                         You worked
                         <br />
-                        ju: wɝːk
+                        ju: wə́ːkt
                         <br />
                         Trabajasteis
                         <br />
                         <br />
                         They worked
                         <br />
-                        ðeɪ wɝːk
+                        ðeɪ wə́ːkt
                         <br />
                         Trabajaron
                     </td>
@@ -144,56 +144,56 @@
                     <td>
                         I had worked
                         <br />
-                        aɪ hæd wɝːk
+                        aɪ hæd wə́ːkt
                         <br />
                         Había trabajado
                         <br />
                         <br />
                         You had worked
                         <br />
-                        ju: hæd wɝːk
+                        ju: hæd wə́ːkt
                         <br />
                         Habías trabajado
                         <br />
                         <br />
                         He had worked
                         <br />
-                        hi: hæd wɝːk
+                        hi: hæd wə́ːkt
                         <br />
                         Había trabajado
                         <br />
                         <br />
                         She had worked
                         <br />
-                        ʃi: hæd wɝːk
+                        ʃi: hæd wə́ːkt
                         <br />
                         Había trabajado
                         <br />
                         <br />
                         It had worked
                         <br />
-                        ɪt hæd wɝːk
+                        ɪt hæd wə́ːkt
                         <br />
                         Había funcionado
                         <br />
                         <br />
                         We had worked
                         <br />
-                        wi: hæd wɝːk
+                        wi: hæd wə́ːkt
                         <br />
                         Habíamos trabajado
                         <br />
                         <br />
                         You had worked
                         <br />
-                        ju: hæd wɝːk
+                        ju: hæd wə́ːkt
                         <br />
                         Habíais trabajado
                         <br />
                         <br />
                         They had worked
                         <br />
-                        ðeɪ hæd wɝːk
+                        ðeɪ hæd wə́ːkt
                         <br />
                         Habían trabajado
                     </td>
@@ -373,56 +373,56 @@
                     <td>
                         I hadn't worked
                         <br />
-                        aɪ ˈhæd.ˈhæd.əntənt wɝːkt
+                        aɪ ˈhæd.ˈhæd.əntənt wə́ːkt
                         <br />
                         No había trabajado
                         <br />
                         <br />
                         You hadn't worked
                         <br />
-                        ju: ˈhæd.əˈhæd.əntnt wɝːkt
+                        ju: ˈhæd.əˈhæd.əntnt wə́ːkt
                         <br />
                         No habías trabajado
                         <br />
                         <br />
                         He hadn't worked
                         <br />
-                        hi: ˈhæd.ˈhæd.əntənt wɝːkt
+                        hi: ˈhæd.ˈhæd.əntənt wə́ːkt
                         <br />
                         No había trabajado
                         <br />
                         <br />
                         She hadn't worked
                         <br />
-                        ʃi: ˈhæd.əˈhæd.əntnt wɝːkt
+                        ʃi: ˈhæd.əˈhæd.əntnt wə́ːkt
                         <br />
                         No había trabajado
                         <br />
                         <br />
                         It hadn't worked
                         <br />
-                        ɪt ˈhæd.əˈhæd.əntnt wɝːkt
+                        ɪt ˈhæd.əˈhæd.əntnt wə́ːkt
                         <br />
                         No había funcionado
                         <br />
                         <br />
                         We hadn't worked
                         <br />
-                        wi: ˈhæd.ˈhæd.əntənt wɝːkt
+                        wi: ˈhæd.ˈhæd.əntənt wə́ːkt
                         <br />
                         No habíamos trabajado
                         <br />
                         <br />
                         You hadn't worked
                         <br />
-                        ju: ˈhæd.əˈhæd.əntnt wɝːkt
+                        ju: ˈhæd.əˈhæd.əntnt wə́ːkt
                         <br />
                         No habíais trabajado
                         <br />
                         <br />
                         They hadn't worked
                         <br />
-                        ðeɪ ˈhæd.ənˈhæd.əntt wɝːkt
+                        ðeɪ ˈhæd.ənˈhæd.əntt wə́ːkt
                         <br />
                         No habían trabajado
                         <br />
@@ -603,56 +603,56 @@
                     <td>
                         Had ɪ worked?
                         <br />
-                        hæd aɪ wɝːkt?
+                        hæd aɪ wə́ːkt?
                         <br />
                         ¿Había trabajado?
                         <br />
                         <br />
                         Had you worked?
                         <br />
-                        hæd ju: wɝːkt?
+                        hæd ju: wə́ːkt?
                         <br />
                         ¿Habías trabajado?
                         <br />
                         <br />
                         Had he worked?
                         <br />
-                        hæd hi: wɝːkt?
+                        hæd hi: wə́ːkt?
                         <br />
                         ¿Había trabajado?
                         <br />
                         <br />
                         Had she worked?
                         <br />
-                        hæd ʃi: wɝːkt?
+                        hæd ʃi: wə́ːkt?
                         <br />
                         ¿Había trabajado?
                         <br />
                         <br />
                         Had it worked?
                         <br />
-                        hæd ɪt wɝːkt?
+                        hæd ɪt wə́ːkt?
                         <br />
                         ¿Había funcionado?
                         <br />
                         <br />
                         Had we worked?
                         <br />
-                        hæd wi: wɝːkt?
+                        hæd wi: wə́ːkt?
                         <br />
                         ¿Habíamos trabajado?
                         <br />
                         <br />
                         Had you worked?
                         <br />
-                        hæd ju: wɝːkt?
+                        hæd ju: wə́ːkt?
                         <br />
                         ¿Habíais trabajado?
                         <br />
                         <br />
                         Had they worked?
                         <br />
-                        hæd ðeɪ wɝːkt?
+                        hæd ðeɪ wə́ːkt?
                         <br />
                         ¿Habían trabajado?
                         <br />
@@ -776,168 +776,168 @@
                     <td>
                         Wasn't ɪ working?
                         <br />
-                        ˈwɒz.ənt
+                        ˈwɒz.ənt aɪ wɝː.kɪŋ
                         <br />
                         ¿No estaba trabajando?
                         <br />
                         <br />
                         Weren't you working?
                         <br />
-                        wɜːnt
+                        wɜːnt ju: wɝː.kɪŋ
                         <br />
                         ¿No estabas trabajando?
                         <br />
                         <br />
                         Wasn't he working?
                         <br />
-                        ˈwɒz.ənt
+                        ˈwɒz.ənt hi: wɝː.kɪŋ
                         <br />
                         ¿No estaba trabajando?
                         <br />
                         <br />
                         Wasn't she working?
                         <br />
-                        ˈwɒz.ənt
+                        ˈwɒz.ənt ʃi: wɝː.kɪŋ
                         <br />
                         ¿No estaba trabajando?
                         <br />
                         <br />
                         Wasn't it working?
                         <br />
-                        ˈwɒz.ənt
+                        ˈwɒz.ənt ɪt wɝː.kɪŋ
                         <br />
                         ¿No estaba funcionando?
                         <br />
                         <br />
                         Weren't we working?
                         <br />
-                        wɜːnt
+                        wɜːnt wi: wɝː.kɪŋ
                         <br />
                         ¿No estábamos trabajando?
                         <br />
                         <br />
                         Weren't you working?
                         <br />
-                        wɜːnt
+                        wɜːnt ju: wɝː.kɪŋ
                         <br />
                         ¿No estabais trabajando?
                         <br />
                         <br />
                         Weren't they working?
                         <br />
-                        wɜːnt
+                        wɜːnt ðeɪ wɝː.kɪŋ
                         <br />
                         ¿No estaban trabajando?
                     </td>
                     <td>
                         Hadn't ɪ worked?
                         <br />
-                        ˈhæd.ənt aɪ
+                        ˈhæd.ənt aɪ wə́ːkt
                         <br />
                         ¿No había trabajado?
                         <br />
                         <br />
                         Hadn't you worked?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt ju: wə́ːkt
                         <br />
                         ¿No habías trabajado?
                         <br />
                         <br />
                         Hadn't he worked?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt hi: wə́ːkt
                         <br />
                         ¿No había trabajado?
                         <br />
                         <br />
                         Hadn't she worked?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt ʃi: wə́ːkt
                         <br />
                         ¿No había trabajado?
                         <br />
                         <br />
                         Hadn't it worked?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt ɪt wə́ːkt
                         <br />
                         ¿No había funcionado?
                         <br />
                         <br />
                         Hadn't we worked?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt wi: wə́ːkt
                         <br />
                         ¿No habíamos trabajado?
                         <br />
                         <br />
                         Hadn't you worked?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt ju: wə́ːkt
                         <br />
                         ¿No habíais trabajado?
                         <br />
                         <br />
                         Hadn't they worked?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt ðeɪ wə́ːkt
                         <br />
                         ¿No habían trabajado?
                     </td>
                     <td>
                         Hadn't ɪ been working?
                         <br />
-                        ˈhæd.ənt aɪ
+                        ˈhæd.ənt aɪ biːn ˈwɝː.kɪŋ?
                         <br />
                         ¿No había estado trabajando?
                         <br />
                         <br />
                         Hadn't you been working?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt ju: biːn ˈwɝː.kɪŋ?
                         <br />
                         ¿No habías estado trabajando?
                         <br />
                         <br />
                         Hadn't he been working?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt hi: biːn ˈwɝː.kɪŋ?
                         <br />
                         ¿No había estado trabajando?
                         <br />
                         <br />
                         Hadn't she been working?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt ʃi: biːn ˈwɝː.kɪŋ?
                         <br />
                         ¿No había estado trabajando?
                         <br />
                         <br />
                         Hadn't it been working?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt ɪt biːn ˈwɝː.kɪŋ?
                         <br />
                         ¿No había estado funcionando?
                         <br />
                         <br />
                         Hadn't we been working?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt wi: biːn ˈwɝː.kɪŋ?
                         <br />
                         ¿No habíamos estado trabajando?
                         <br />
                         <br />
                         Hadn't you been working?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt ju: biːn ˈwɝː.kɪŋ?
                         <br />
                         ¿No habíais estado trabajando?
                         <br />
                         <br />
                         Hadn't they been working?
                         <br />
-                        ˈhæd.ənt
+                        ˈhæd.ənt ðeɪ biːn ˈwɝː.kɪŋ?
                         <br />
                         ¿No habían estado trabajando?
                     </td>
